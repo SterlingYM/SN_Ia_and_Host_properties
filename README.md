@@ -1,5 +1,7 @@
 # On the relationship between Type Ia supernova luminosity and host-galaxy properties
 
+note: this repository is work in progress. to request specific files or information, contact the author directly. 
+
 Murakami et al. 2021 <br>
 [![DOI:10.1093/mnrasl/slab034](https://zenodo.org/badge/DOI/10.1093/mnrasl/slab034.svg)](https://doi.org/10.1093/mnrasl/slab034) 
 [![arXiv](https://img.shields.io/badge/arXiv-2012.06217-b31b1b.svg)](https://arxiv.org/abs/2012.06217v2)
@@ -16,6 +18,10 @@ Contents are to be added.
 - SDSS DR8 - [Granada VAC](https://www.sdss.org/dr12/spectro/galaxy_granada/): Kroupa IMF, wideform, no dust ([direct link](http://data.sdss3.org/sas/dr12/sdss/spectro/redux/galaxy/v1_1/granada_fsps_krou_wideform_nodust-26.fits.gz))
 - SDSS DR8 - [Portsmouth VAC](https://www.sdss.org/dr12/spectro/galaxy_portsmouth/): Kroupa IMF, starforming ([direct link](http://data.sdss3.org/sas/dr12/sdss/spectro/redux/galaxy/v1_1/portsmouth_stellarmass_starforming_krou-26.fits.gz))
 
+Morphological classifications:
+- CALIFA
+- MaNGA
+- SDSS
 
 ## Acknowledgements
 
