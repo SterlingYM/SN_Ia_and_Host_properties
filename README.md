@@ -1,7 +1,8 @@
 # On the relationship between Type Ia supernova luminosity and host-galaxy properties
 
-Murakami et al. 2021 (arxiv: [2012.06217](https://arxiv.org/abs/2012.06217))
-doi tag here
+Murakami et al. 2021 <br>
+[![DOI:10.1093/mnrasl/slab034](https://zenodo.org/badge/DOI/10.1093/mnrasl/slab034.svg)](https://doi.org/10.1093/mnrasl/slab034) 
+[![arXiv](https://img.shields.io/badge/arXiv-2012.06217-b31b1b.svg)](https://arxiv.org/abs/2012.06217v2)
 
 ## Introduction
 
