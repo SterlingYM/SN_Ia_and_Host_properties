@@ -8,6 +8,8 @@ Murakami et al. 2021 <br>
 
 > A string of recent studies has debated the exact form and physical origin of an evolutionary trend between the peak luminosity of Type Ia supernovae (SNe Ia) and the properties of the galaxies that host them. We shed new light on the discussion by presenting an analysis of ~200 low-redshift SNe Ia in which we measure the separation of Hubble residuals (HR; as probes of luminosity) between two host-galaxy morphological types. We show that this separation can test the predictions made by recently proposed models, using an independently and empirically determined distribution of each morphological type in host-property space. Our results are partially consistent with the new HR--age slope, but we find significant scatter in the predictions from different galaxy catalogues. The inconsistency in age illuminates an issue in the current debate that was not obvious in the long-discussed mass models: HR--host-property models are strongly dependent on the methods employed to determine galaxy properties. While our results demonstrate the difficulty in constructing a universal model for age as a proxy for host environment, our results indeed identify evolutionary trends between mass, age, morphology, and HR values, encouraging (or requiring, if such trends are to be accounted for in cosmological studies) further investigation. 
 
+![main plot](fig/rev1_mainplot.png)
+
 ## Introduction
 Contents are to be added.
 
